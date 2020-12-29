@@ -1,0 +1,7 @@
+{
+  "name": "paysage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
